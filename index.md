@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics Paper](/pdf/CSCI325EthicsPaper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 325 - Object-Oriented Programming 
+-   **Grade:** 90/100
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics Paper - CSCI 419](/pdf/ethicsPaperCSCI419.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 419 - Database Management
+-   **Grade:** 100/100
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Artificial Intelligence](/pdf/ethicsPaperCSCI301.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 301 - Survey of Scripting Languages
+-   **Grade:** 100/100
 
 ---
 
