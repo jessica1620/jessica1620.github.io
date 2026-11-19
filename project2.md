@@ -27,9 +27,7 @@ java statisticsGUI
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The user can type the numbers they wish to calculate into the input box and press the buttons for the desired calculation. For mean calculation, select the `Calculate Mean` button (see Fig 1). For median calculation, select the `Calculate Median` button (see Fig 2). For mode calculation, select the `Calculate Mode` button (see Fig 3). To calculate all three simultaneously, select the `Calculate Mean, Median, and Mode` button (see Fig 4). The user can also change the input at any time and do new desired calculations. When finished, the user may select the `Close` button to exit the program.
 
 ![screenshot](images/meanGUICalculator.png)  
 Fig 1. Calculation of the mean.
