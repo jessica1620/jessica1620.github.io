@@ -17,7 +17,7 @@ This program is a GUI program in Java created on NetBeans. It is a Statistics Ca
 
 In the terminal, navigate the the directory that has the file using:
 ```bash
-cd [name of your directory\]
+cd [name of your directory]
 ```
 Compile and run the program by using the commands:
 ```bash
