@@ -6,7 +6,7 @@ Test 2
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [placeholder](https://github.com/jessica1620/csci325-Fall25-Snake)  
     (Please [email me](mailto:jmgambino@student.csuniv.edu?subject=GitHub+Access) to request access.)
 
 ## Project description
