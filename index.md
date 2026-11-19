@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Web-Scrapping Thumbnail](images/csci301Webscrapping.png)
 
 ---
-### [Project 2 Title | CSCI 315](project2)
+### [Statistics GUI Calculator | CSCI 325](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Final Project - Snake | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [LAN Website | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
