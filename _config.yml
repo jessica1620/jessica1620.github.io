@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Computer-Science (class of 2028)
   <br /><br />
-  <"/pdf/JessicaGambinoResume2026.pdf">View My Resume</a>
+  <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
 repository: "jessica1620/jessica1620.github.io"
 github_username:  jessica1620 # update with your username
