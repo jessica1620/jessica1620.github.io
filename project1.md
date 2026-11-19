@@ -17,7 +17,7 @@ This program is a Python script that was written and executed in the Ubuntu term
 
 Download the file from the GitHub repository. From your terminal, move to the correct directory using:
 ```bash
-cd [directory where the downloaded file is]
+cd [insert name of directory where the downloaded file is]
 cd WebscrappingFinal
 ```
 Once in the correct directory, from your terminal, type the following:
@@ -31,13 +31,13 @@ If it does not work, try `python` instead of `python3`.
 
 You will start with your blank terminal before running the program (see Fig 1), and when the program is run properly, it will show the correct output of the remote jobs from the website (see Fig 2). If the program is not run properly, it will bring up an error. [Example: If using one of the commands does not work.\] (see Fig 3). 
 
-![Blank window before running](images/dummy_thumbnail.jpg)  
+![Blank window before running](images/beforeRunningCSCI301.png)  
 Fig 1. The blank terminal before running.
 
-![Correct output](images/dummy_thumbnail.jpg)  
+![Correct output](images/correctOutputCSCI301.png)  
 Fig 2. Correct output of remote jobs
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/errorCSCI301.png)  
 Fig 3. Feedback when an error occurs.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
