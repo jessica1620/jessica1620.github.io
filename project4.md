@@ -7,7 +7,7 @@ Test 3
 -   **Grade:** 
 -   **Language(s):** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:jmgambino@student.csuniv.edu) to request access.)
+    (Please [email me](mailto:jmgambino@student.csuniv.edu?subject=GitHub+Access) to request access.)
 
 ## Project description
 
