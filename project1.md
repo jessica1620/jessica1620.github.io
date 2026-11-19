@@ -7,7 +7,7 @@ Project 1 Title
 -   **Grade:** 
 -   **Language(s):** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:jmgambino@student.csuniv.edu) to request access.)
 
 ## Project description
 
@@ -19,7 +19,7 @@ How to compile (if applicable) and run the project.
 
 ```bash
 cd ./project
-python setup.py
+python3 Webscrapping.py
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
