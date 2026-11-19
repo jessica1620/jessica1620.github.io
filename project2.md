@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Test
+Statistics GUI Calculator
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Class:** Object Oriented Programming - CSCI 325
+-   **Grade:** 100/100
+-   **Language(s):** Java
+-   **Source Code Repository:** [Statistics GUI Calculator](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:jmgambino@student.csuniv.edu?subject=GitHub+Access) to request access.)
 
 ## Project description
