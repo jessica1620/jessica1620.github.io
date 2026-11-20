@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Test 2
+Final Project - Snake
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [placeholder](https://github.com/jessica1620/csci325-Fall25-Snake)  
+-   **Class:** Object Oriented Programming - CSCI 325
+-   **Grade:** 95/100
+-   **Language(s):** Java
+-   **Source Code Repository:** [Snake](https://github.com/jessica1620/csci325-Fall25-Snake)  
     (Please [email me](mailto:jmgambino@student.csuniv.edu?subject=GitHub+Access) to request access.)
 
 ## Project description
@@ -15,14 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python3 Webscrapping.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+To run the program, you must download the zip file from the repository, extract it, and run it within NetBeans.
 
 ## UI Design
 
