@@ -51,9 +51,9 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1: Snake Game Demo](/video/snakeDemo.mp4)
 
-- **Class:** 
+- **Class:** CSCI 325 - Object Oriented Programming
 - **Grade:**
 
 
