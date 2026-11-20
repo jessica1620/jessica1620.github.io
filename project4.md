@@ -21,7 +21,7 @@ Navigate to the repository and download the `lab5` file. Upload the file into an
 
 At the top of the website, there are hyperlinks to link to each part of our websites. 
 
-![screenshot](images/ethernetcable.png)  
+![screenshot](images/ethernetcable.jpg)  
 Fig 1. The constructed ethernet cables.
 
 ![screenshot](images/sambaserverstatus.png)  
