@@ -8,6 +8,7 @@ Final Project - Snake
 -   **Language(s):** Java
 -   **Source Code Repository:** [Snake](https://github.com/jessica1620/csci325-Fall25-Snake)  
     (Please [email me](mailto:jmgambino@student.csuniv.edu?subject=GitHub+Access) to request access.)
+    (Please view the `Presentations` section for a video demo!)
 
 ## Project description
 
