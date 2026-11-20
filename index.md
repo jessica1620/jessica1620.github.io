@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Final Project - Snake | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/snakeThumbnail.png)
 
 ---
 ### [LAN Website | CSCI 332](project4)
