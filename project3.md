@@ -19,20 +19,32 @@ To run the program, you must download the zip file from the repository, extract 
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The game opens up with a welcome start screen (see Fig 1), and upon clicking play, the user is brought to the settings screen (see Fig 2). The default color mode is `night mode`, but the user can choose to switch it to `day mode` if they choose by clicking the moon icon (see Fig 3). To switch back to night mode, hit the sun icon. The player can choose the color of the snake they would like. Afterwards, they may click play and begin playing (see Fig 4). The user may play the game for as long as they are able/choose. Upon crashing into yourself or into a wall, the user are brought to a losing screen (see Fig 5). However, if the user fill the entire screen without crashing into yourself, the user is brought to a winning screen (see Fig 6). After a win or lose screen, the next screen (by selecting the apple) is a scoreboard that tracks your points and deaths (see Fig 7). The user may replay as many times as they like, or close the game at that point by hitting the `X` apple.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/snakeThumbnail.png)  
+Fig 1. The game start screen.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/snakeNight.png)  
+Fig 2. Snake settings (night mode).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/snakeDay.png)  
+Fig 3. Snake settings (day mode).
+
+![screenshot](images/snakeGameplay.png)  
+Fig 4. Snake gameplay example.
+
+![screenshot](images/snakeLose.png)  
+Fig 5. Snake losing screen.
+
+![screenshot](images/snakeWin.png)  
+Fig 6. Snake winning screen.
+
+![screenshot](images/scoreBoardSnake.png)  
+Fig 7. Example of the scoreboard and death tracking after win or loss screen.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The game is single player, but it can be improved with making it multiplayer.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
