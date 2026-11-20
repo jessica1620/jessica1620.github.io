@@ -24,13 +24,13 @@ At the top of the website, there are hyperlinks to link to each part of our webs
 ![screenshot](images/ethernetcable.png)  
 Fig 1. The constructed ethernet cables.
 
-![screenshot](images/)  
+![screenshot](images/sambaserverstatus.png)  
 Fig 2. Samba server status.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/systemmonitor.png)  
 Fig 3. System monitor to show the transfer rates of the files.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/routerconfig.png)  
 Fig 4. Router configurations.
 
 [Back to Portfolio](./)
