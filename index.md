@@ -54,13 +54,13 @@ Presentations
 ### [Presentation 1: Snake Game Demo](/video/snakeDemo.mp4)
 
 - **Class:** CSCI 325 - Object Oriented Programming
-- **Grade:**
+- **Grade:** 95/100
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2: Snake Game Presentation](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 325 - Object Oriented Programming
+- **Grade:** 95/100
 
 ---
 
