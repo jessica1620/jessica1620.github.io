@@ -1,48 +1,36 @@
 [Back to Portfolio](./)
 
-Test 3
+LAN Lab Website
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Class:** Applied Networking - CSCI 332
+-   **Grade:** 100/100
+-   **Language(s):** HTML
+-   **Source Code Repository:** [LAN Website](https://github.com/jessica1620/lan-website-csci332)  
     (Please [email me](mailto:jmgambino@student.csuniv.edu?subject=GitHub+Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project was a lab completed in Applied Networking with another partner. Even though it is not a "program" per say, it displays networking knowledge. My partner and I constructed a LAN using our laptops, one router, and ethernet cables. We had to create the ethernet cables (see Fig 1) ourselves and make sure they worked properly. We then had to configure the router, install/configure/run the Samba server (see Fig 2) on our virtual machines (VMs), and ensure everything was working properly to create a public folder to share a file. We connected our laptops via ethernet cables and the router, and we were able to browse through whatever files were in our shared folders. This lab also included another part where we configured a router. The router configuration image will be included (see Fig 4).
 
-## How to compile and run the program
+## How to access the HTML website
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python3 Webscrapping.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Navigate to the repository and download the `lab5` file. Upload the file into any code editor and run it as normal. You can open each page individually, or start with `index.html` and use the selection links to filter through each section. The files will open in whatever your default browser is (Edge, Chrome, Firefox, Brave, etc). 
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+At the top of the website, there are hyperlinks to link to each part of our websites. 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/ethernetcable.png)  
+Fig 1. The constructed ethernet cables.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/)  
+Fig 2. Samba server status.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. System monitor to show the transfer rates of the files.
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 4. Router configurations.
 
 [Back to Portfolio](./)
