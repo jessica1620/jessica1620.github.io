@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [LAN Website | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/ethernetcable.png)
+![Project 4 Thumbnail Name](images/ethernetcable.jpg)
 
 ---
 
