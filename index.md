@@ -57,7 +57,7 @@ Presentations
 - **Grade:** 95/100
 
 
-### [Presentation 2: Snake Game Presentation](/pdf/sample_presentation.pdf)
+### [Presentation 2: Snake Game Presentation](/pdf/SNAKE-FINAL-PROJECT.pdf)
 
 - **Class:** CSCI 325 - Object Oriented Programming
 - **Grade:** 95/100
